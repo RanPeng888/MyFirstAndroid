@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.0_c6d1b9171279e9edaa2e85c20fa116374b5bf177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.0_2e70eedb62e61649d1273e0a649675612e561db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.0_d109c8af7dfbd03769573861ad907b7a905f73ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_2d4e0b7bd87debd5fafcc80fbec92f9b647705f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.0_569302d378d5ec21c32b3c5d9e767ef958a6f9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.0_d8c83669dd251d086fbecc174b3af947f8afafcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.0_15b1b6a424fd3465e350590ea7a1dec653ef94b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.0_09081ccad5c8768b3bdf92561cb940f53135a902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.0_c59e8af1a1798c113e39cda3e6bb2bb5d17e99f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.0_50e3dd79d66064cc253cd19be55b2536c9bb0ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.0_d06b33171e37a8a9f3f8f50f9dd439b36f87c57d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.0_493e0ee2db114991ef08f23a41dbf8229919657d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/ranpeng/AndroidStudioProjects/MyApplication2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.0_6ded6cee2b5a54cb0181cfe7d697c2bcc7feef99.jar" />
+    </item>
+
+</items>
